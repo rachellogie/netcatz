@@ -43,6 +43,8 @@ gem 'bower-rails'
 group :test, :development do
   gem 'rspec-rails'
   gem 'capybara'
+  gem 'teaspoon'
+  gem 'phantomjs'
 end
 
 gem 'angular-rails-templates'
